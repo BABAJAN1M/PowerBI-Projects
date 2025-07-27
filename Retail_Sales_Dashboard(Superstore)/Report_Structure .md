@@ -20,7 +20,7 @@ This markdown file summarizes the structure and logic of the Power BI dashboard 
 - Clustered Bar Chart: Sales vs Profit by Region
 - Slicer: Date range
 
-![Page 1 – Sales Overview](images/Page 1. Sales Performance Analysis.png)
+![Page 1 – Sales Overview](images/Page%201.%20Sales%20Performance%20Analysis.png)
 
 ---
 
@@ -37,7 +37,7 @@ This markdown file summarizes the structure and logic of the Power BI dashboard 
 - Bar Chart: Top 10 Cities by Profit
 - Heatmap Matrix: Region vs Product Category (with Profit conditional formatting)
 
-![Page 2 – Regional Sales & Profit Analysis](images/Page 2. Regional Sales & Profit Analysis.png)
+![Page 2 – Regional Sales & Profit Analysis](images/Page%202.%20Regional%20Sales%20&%20Profit%20Analysis.png)
 
 ---
 
@@ -54,7 +54,7 @@ This markdown file summarizes the structure and logic of the Power BI dashboard 
 - Tree Map: Sales by Category > Sub-category
 - Matrix Table: Profit by Product Name with red-green conditional formatting
 
-![Page 3 – Product Analysis](images/Page 3.Product Analysis.png)
+![Page 3 – Product Analysis](images/Page%203.Product%20Analysis.png)
 
 ---
 
@@ -71,7 +71,7 @@ This markdown file summarizes the structure and logic of the Power BI dashboard 
 - Clustered Column + Line Chart: Sales and Average Discount by Segment
 - Matrix Table: Segment-wise Sales, Profit, Discount (conditionally formatted)
 
-![Page 4 – Customer Segmentation Analysis](images/Page 4. Customer Segmentation Analysis.png)
+![Page 4 – Customer Segmentation Analysis](images/Page%204.%20Customer%20Segmentation%20Analysis.png)
 
 ---
 
@@ -94,7 +94,7 @@ Shipping Delay (days) = DATEDIFF(Fact_Orders[Order Date], Fact_Orders[Ship Date]
 Avg Shipping Delay = AVERAGE(Fact_Orders[Shipping Delay (days)])
 ```
 
-![Page 5 – Shipping Impact Analysis](images/Page 5. Shipping Impact Analysis.png)
+![Page 5 – Shipping Impact Analysis](images/Page%205.%20Shipping%20Impact%20Analysis.png)
 
 ---
 
@@ -113,7 +113,7 @@ Avg Shipping Delay = AVERAGE(Fact_Orders[Shipping Delay (days)])
 
 **💡 Sorting Tip:** Custom sort applied on Weekday & Month using calculated columns (`WeekdayNr`, `Month Number`).
 
-![Page 6 – Time-Based Analysis](images/Page 6. Time-Based Analysis.png)
+![Page 6 – Time-Based Analysis](images/Page%206.%20Time-Based%20Analysis.png)
 
 ---
 
@@ -135,9 +135,9 @@ Avg Shipping Delay = AVERAGE(Fact_Orders[Shipping Delay (days)])
 Loss-Making Sales = CALCULATE([Total Sales], FILTER(Fact_Orders, Fact_Orders[Profit] < 0))
 ```
 
-![Page 7 – Top Profit & Loss making products](images/Page 7. Top Profit & Loss making products.png)
+![Page 7 – Top Profit & Loss making products](images/Page%207.%20Top%20Profit%20&%20Loss%20making%20products.png)
 
-![Page 8 – Report Overview ](images/Page 8. Report Overview & Business Questions.png)
+![Page 8 – Report Overview ](images/Page%208.%20Report%20Overview%20&%20Business%20Questions.png)
 
 ---
 
