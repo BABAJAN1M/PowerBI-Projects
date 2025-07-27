@@ -87,4 +87,4 @@ This project showcases my ability to:
 
 ---
 
-> ✨ *For feedback, suggestions, or collaboration – feel free to connect via [LinkedIn](https://www.linkedin.com/in/babajan-m/) or check my full portfolio on [GitHub](https://github.com/BABAJAN1M).*
+> ✨ *For feedback, suggestions, or collaboration – feel free to connect via [LinkedIn](https://www.linkedin.com/in/mbj342/) or check my full portfolio on [GitHub](https://github.com/BABAJAN1M).*
