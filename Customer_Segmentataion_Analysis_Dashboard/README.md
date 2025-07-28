@@ -45,7 +45,7 @@ Customer_Segmentataion_Analysis_Report/
 | ![Page 2](./images/2.Customer%20Demographic%20Overview.png) | **Demographics**: Age bins, family size, and profession |
 | ![Page 3](./images/3.Work%20Experience%20Trends%20Across%20Professions.png) | **Work Experience**: Profession-based trends |
 | ![Page 4](./images/4.Customer%20Spending%20Overview.png) | **Spending Patterns**: Spending Score and segmentation |
-| ![Page 5](./images/5.Family%20Size%20&%20Category%20Overview.png) | **Family Size & Category**: Analysis by Var_1 and family size |
+| ![Page 5](./images/5.Family%20Size%20&%20Category%20Overview.png) | **Family Size & Category**: Analysis by Category and family size |
 | ![Page 6a](./images/6.Smart%20Insights%20Overview%20Page%201.png) | **Smart Insights (1)**: Outlier & scatterplot analysis |
 | ![Page 6b](./images/7.Smart%20Insights%20Overview%20Page%202.png) | **Smart Insights (2)**: Decomposition Tree |
 | ![Page 7](./images/8.Summary.png) | **Summary**: Questions answered, segment-wise insights, key takeaways |
