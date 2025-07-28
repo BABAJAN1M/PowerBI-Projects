@@ -39,9 +39,6 @@ Customer_Segmentataion_Analysis_Report/
 ---
 
 ## 📷 Report Pages (Screenshots)
-
-## 📷 Report Pages (Screenshots)
-
 | Page | Overview |
 |------|----------|
 | ![Page 1](./images/1.Customer%20Overview.png) | **Customer Overview**: Segment distribution by demographics |
